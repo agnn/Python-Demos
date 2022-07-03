@@ -55,7 +55,8 @@ class mystring :
         except Exception as e:
             lg.error(e)
 
-
+####End of Class###
+'''
 st = "this is My First Python programming class and i am learNING python string and its function"
 s = mystring(st)
 s.str_slice(0,300,3)
