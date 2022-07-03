@@ -1,12 +1,13 @@
 import logging as lg
 
+#Create basic log file
 lg.basicConfig(filename= "loglist.txt" , level= lg.DEBUG , format= '%(name)s %(asctime)s %(levelname)s %(message)s')
 
 
-class mylist :
+class mylist : 
     # this class contains all functions related to List operation
 
-        def __init__(self,in_list):
+        def __init__(self,in_list):  #Constructor to take a list from user.
 
             lg.info("Constructor initialised")
             self.l = in_list
@@ -18,7 +19,7 @@ class mylist :
                 lg.error(e)
 
 
-        def list_reverse(self):
+        def list_reverse(self):             
             'This function will reverse your list'
             lg.info("list_reverse function initialised")
             try:
@@ -47,7 +48,7 @@ class mylist :
 
                 s = []
 
-
+                'Loop to extract numbers and append to a temporary list'
                 for i in self.l:
                     if type(i) == list or type(i) == tuple or type(i) == set:
                         for j in i:
@@ -71,7 +72,7 @@ class mylist :
             try:
                 lg.info("sum_list function initialised")
 
-                u= mylist.extract_numbers_list(self)
+                u= mylist.extract_numbers_list(self) #fucntion call within a funciton from the same class
 
                 lg.info("The list of numbers imported from function extract_numbers_list : %s", u)
 
@@ -164,12 +165,15 @@ class mylist :
                 return (self.l + b)
             except Exception as e:
                 lg.error(e)
+                
+    ######## End of Class ########
+    
+    
 
 
 
 
-
-
+#Example below
 
 
 #l = [3,4,5,6,7 , [23,456,67,8,78,78] , [345,56,87,8,98,9] , (234,6657,6) , {"key1" :"sudh" , 234:[23,45,656]}]
@@ -183,6 +187,6 @@ l1.sum_list()
 l1.extract_numbers_list()
 l1.extract_odd()
 l1.count_element_list()
-l1.count_string_list()'''
+l1.count_string_list()
 
-l1.listappend("Appended")
+l1.listappend("Appended")'''
