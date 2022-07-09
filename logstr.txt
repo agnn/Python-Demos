@@ -1,0 +1,80 @@
+root 2022-07-03 12:48:22,930 INFO Constructor initialised
+root 2022-07-03 12:48:22,930 INFO The list passed by user is : this is My First Python programming class and i am learNING python string and its function
+root 2022-07-03 12:48:22,930 INFO str_slice function initialised
+root 2022-07-03 12:48:22,930 INFO start index : 0 , end index : 300 , jump : 3 
+root 2022-07-03 12:48:22,930 INFO Sliced string is tssyityopgmncsa alrNph rgni ni 
+root 2022-07-03 12:48:22,930 INFO str_reverse function initialised
+root 2022-07-03 12:48:22,930 INFO Reversed string is : noitcnuf sti dna gnirts nohtyp GNINrael ma i dna ssalc gnimmargorp nohtyP tsriF yM si siht
+root 2022-07-03 12:48:22,930 INFO str_upper_split function initialised
+root 2022-07-03 12:48:22,930 INFO Converted string is : ['THIS', 'IS', 'MY', 'FIRST', 'PYTHON', 'PROGRAMMING', 'CLASS', 'AND', 'I', 'AM', 'LEARNING', 'PYTHON', 'STRING', 'AND', 'ITS', 'FUNCTION']
+root 2022-07-03 12:48:22,930 INFO str_reverse function initialised
+root 2022-07-03 12:48:22,930 INFO Reversed string is : noitcnuf sti dna gnirts nohtyp GNINrael ma i dna ssalc gnimmargorp nohtyP tsriF yM si siht
+root 2022-07-03 12:48:22,930 INFO str_slice function initialised
+root 2022-07-03 12:48:22,930 INFO start index : 0 , end index : 300 , jump : 3 
+root 2022-07-03 12:48:22,930 INFO Sliced string is tssyityopgmncsa alrNph rgni ni 
+root 2022-07-03 12:48:22,930 INFO str_replace function initialised
+root 2022-07-03 12:48:22,930 INFO The modifed string is : this is My First Java programming class and i am learNING python string and its function
+root 2022-07-03 12:48:39,423 INFO Constructor initialised
+root 2022-07-03 12:48:39,429 INFO The list passed by user is : this is My First Python programming class and i am learNING python string and its function
+root 2022-07-03 12:48:39,429 INFO str_slice function initialised
+root 2022-07-03 12:48:39,429 INFO start index : 0 , end index : 300 , jump : 3 
+root 2022-07-03 12:48:39,429 INFO Sliced string is tssyityopgmncsa alrNph rgni ni 
+root 2022-07-03 12:48:39,429 INFO str_reverse function initialised
+root 2022-07-03 12:48:39,429 INFO Reversed string is : noitcnuf sti dna gnirts nohtyp GNINrael ma i dna ssalc gnimmargorp nohtyP tsriF yM si siht
+root 2022-07-03 12:48:39,429 INFO str_upper_split function initialised
+root 2022-07-03 12:48:39,429 INFO Converted string is : ['THIS', 'IS', 'MY', 'FIRST', 'PYTHON', 'PROGRAMMING', 'CLASS', 'AND', 'I', 'AM', 'LEARNING', 'PYTHON', 'STRING', 'AND', 'ITS', 'FUNCTION']
+root 2022-07-03 12:48:39,429 INFO str_reverse function initialised
+root 2022-07-03 12:48:39,429 INFO Reversed string is : noitcnuf sti dna gnirts nohtyp GNINrael ma i dna ssalc gnimmargorp nohtyP tsriF yM si siht
+root 2022-07-03 12:48:39,429 INFO str_slice function initialised
+root 2022-07-03 12:48:39,429 INFO start index : 0 , end index : 300 , jump : 3 
+root 2022-07-03 12:48:39,429 INFO Sliced string is tssyityopgmncsa alrNph rgni ni 
+root 2022-07-03 12:48:39,429 INFO str_replace function initialised
+root 2022-07-03 12:48:39,429 INFO The modifed string is : this is My First Java programming class and i am learNING python string and its function
+root 2022-07-03 12:48:58,469 INFO Constructor initialised
+root 2022-07-03 12:48:58,469 INFO The list passed by user is : this is My First Python programming class and i am learNING python string and its function
+root 2022-07-03 12:48:58,469 INFO str_slice function initialised
+root 2022-07-03 12:48:58,469 INFO start index : 0 , end index : 300 , jump : 3 
+root 2022-07-03 12:48:58,469 INFO Sliced string is tssyityopgmncsa alrNph rgni ni 
+root 2022-07-03 12:48:58,469 INFO str_reverse function initialised
+root 2022-07-03 12:48:58,469 INFO Reversed string is : noitcnuf sti dna gnirts nohtyp GNINrael ma i dna ssalc gnimmargorp nohtyP tsriF yM si siht
+root 2022-07-03 12:48:58,469 INFO str_upper_split function initialised
+root 2022-07-03 12:48:58,469 INFO Converted string is : ['THIS', 'IS', 'MY', 'FIRST', 'PYTHON', 'PROGRAMMING', 'CLASS', 'AND', 'I', 'AM', 'LEARNING', 'PYTHON', 'STRING', 'AND', 'ITS', 'FUNCTION']
+root 2022-07-03 12:48:58,469 INFO str_reverse function initialised
+root 2022-07-03 12:48:58,469 INFO Reversed string is : noitcnuf sti dna gnirts nohtyp GNINrael ma i dna ssalc gnimmargorp nohtyP tsriF yM si siht
+root 2022-07-03 12:48:58,469 INFO str_slice function initialised
+root 2022-07-03 12:48:58,469 INFO start index : 0 , end index : 300 , jump : 3 
+root 2022-07-03 12:48:58,469 INFO Sliced string is tssyityopgmncsa alrNph rgni ni 
+root 2022-07-03 12:48:58,469 INFO str_replace function initialised
+root 2022-07-03 12:48:58,469 INFO The modifed string is : this is My First Java programming class and i am learNING python string and its function
+root 2022-07-03 12:49:19,579 INFO Constructor initialised
+root 2022-07-03 12:49:19,579 INFO The list passed by user is : this is My First Python programming class and i am learNING python string and its function
+root 2022-07-03 12:49:19,579 INFO str_slice function initialised
+root 2022-07-03 12:49:19,579 INFO start index : 0 , end index : 300 , jump : 3 
+root 2022-07-03 12:49:19,579 INFO Sliced string is tssyityopgmncsa alrNph rgni ni 
+root 2022-07-03 12:49:19,579 INFO str_reverse function initialised
+root 2022-07-03 12:49:19,579 INFO Reversed string is : noitcnuf sti dna gnirts nohtyp GNINrael ma i dna ssalc gnimmargorp nohtyP tsriF yM si siht
+root 2022-07-03 12:49:19,579 INFO str_upper_split function initialised
+root 2022-07-03 12:49:19,579 INFO Converted string is : ['THIS', 'IS', 'MY', 'FIRST', 'PYTHON', 'PROGRAMMING', 'CLASS', 'AND', 'I', 'AM', 'LEARNING', 'PYTHON', 'STRING', 'AND', 'ITS', 'FUNCTION']
+root 2022-07-03 12:49:19,580 INFO str_reverse function initialised
+root 2022-07-03 12:49:19,580 INFO Reversed string is : noitcnuf sti dna gnirts nohtyp GNINrael ma i dna ssalc gnimmargorp nohtyP tsriF yM si siht
+root 2022-07-03 12:49:19,580 INFO str_slice function initialised
+root 2022-07-03 12:49:19,580 INFO start index : 0 , end index : 300 , jump : 3 
+root 2022-07-03 12:49:19,580 INFO Sliced string is tssyityopgmncsa alrNph rgni ni 
+root 2022-07-03 12:49:19,580 INFO str_replace function initialised
+root 2022-07-03 12:49:19,580 INFO The modifed string is : this is My First Java programming class and i am learNING python string and its function
+root 2022-07-03 12:49:37,051 INFO Constructor initialised
+root 2022-07-03 12:49:37,051 INFO The list passed by user is : this is My First Python programming class and i am learNING python string and its function
+root 2022-07-03 12:49:37,051 INFO str_slice function initialised
+root 2022-07-03 12:49:37,051 INFO start index : 0 , end index : 300 , jump : 3 
+root 2022-07-03 12:49:37,051 INFO Sliced string is tssyityopgmncsa alrNph rgni ni 
+root 2022-07-03 12:49:37,051 INFO str_reverse function initialised
+root 2022-07-03 12:49:37,051 INFO Reversed string is : noitcnuf sti dna gnirts nohtyp GNINrael ma i dna ssalc gnimmargorp nohtyP tsriF yM si siht
+root 2022-07-03 12:49:37,051 INFO str_upper_split function initialised
+root 2022-07-03 12:49:37,051 INFO Converted string is : ['THIS', 'IS', 'MY', 'FIRST', 'PYTHON', 'PROGRAMMING', 'CLASS', 'AND', 'I', 'AM', 'LEARNING', 'PYTHON', 'STRING', 'AND', 'ITS', 'FUNCTION']
+root 2022-07-03 12:49:37,051 INFO str_reverse function initialised
+root 2022-07-03 12:49:37,051 INFO Reversed string is : noitcnuf sti dna gnirts nohtyp GNINrael ma i dna ssalc gnimmargorp nohtyP tsriF yM si siht
+root 2022-07-03 12:49:37,051 INFO str_slice function initialised
+root 2022-07-03 12:49:37,051 INFO start index : 0 , end index : 300 , jump : 3 
+root 2022-07-03 12:49:37,051 INFO Sliced string is tssyityopgmncsa alrNph rgni ni 
+root 2022-07-03 12:49:37,052 INFO str_replace function initialised
+root 2022-07-03 12:49:37,052 INFO The modifed string is : this is My First Java programming class and i am learNING python string and its function

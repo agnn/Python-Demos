@@ -1,0 +1,10 @@
+root 2022-07-03 14:14:28,312 INFO Constructor initialised
+root 2022-07-03 14:14:28,312 INFO The list passed by user is : [9, 8, 1, 2, 3, 4, 'a', 'b']
+root 2022-07-03 14:15:13,019 INFO Constructor initialised
+root 2022-07-03 14:15:13,019 INFO The list passed by user is : [9, 8, 1, 2, 3, 4, 'a', 'b']
+root 2022-07-03 14:16:01,179 INFO Constructor initialised
+root 2022-07-03 14:16:01,180 INFO The list passed by user is : [9, 8, 1, 2, 3, 4, 'a', 'b']
+root 2022-07-03 14:16:24,465 INFO Constructor initialised
+root 2022-07-03 14:16:24,465 INFO The list passed by user is : [9, 8, 1, 2, 3, 4, 'a', 'b']
+root 2022-07-03 14:16:24,465 INFO listappend function initialised
+root 2022-07-03 14:16:24,465 INFO appended list is : [9, 8, 1, 2, 3, 4, 'a', 'b', 'Appended']

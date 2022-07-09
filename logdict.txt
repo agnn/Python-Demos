@@ -1,0 +1,16 @@
+root 2022-07-03 13:55:06,296 INFO Constructor initialised
+root 2022-07-03 13:55:06,296 ERROR Passed value is not a dictionary, kindly retry with correct parameters
+root 2022-07-03 13:55:06,296 ERROR Please provide correct parameters
+root 2022-07-03 13:55:06,296 INFO Function call successful : dict_keys
+root 2022-07-03 13:55:06,296 ERROR 'list' object has no attribute 'items'
+root 2022-07-03 13:59:01,226 INFO Constructor initialised
+root 2022-07-03 13:59:01,226 ERROR Passed value is not a dictionary, kindly retry with correct parameters
+root 2022-07-03 13:59:01,226 ERROR Please provide correct parameters
+root 2022-07-03 13:59:01,226 INFO Function call successful : dict_keys
+root 2022-07-03 13:59:01,226 ERROR 'list' object has no attribute 'items'
+root 2022-07-03 14:03:59,487 INFO Constructor initialised
+root 2022-07-03 14:03:59,487 INFO The dict passed by user is : {'Name': ('Agnik', 'Ritu', 'Sagnik', 'Sulata', 'Nilanjan'), 'Age': (30, 29, 23, 57, 60, 63), 'Location': ('Bareilly', 'Bareilly', 'Delhi', 'Barasat', 'Barasat')}
+root 2022-07-03 14:03:59,487 INFO Function call successful : dict_keys
+root 2022-07-03 14:03:59,487 INFO The keys are : ['Name', 'Age', 'Location'] 
+root 2022-07-03 14:03:59,487 INFO The values are : [('Agnik', 'Ritu', 'Sagnik', 'Sulata', 'Nilanjan'), (30, 29, 23, 57, 60, 63), ('Bareilly', 'Bareilly', 'Delhi', 'Barasat', 'Barasat')]
+root 2022-07-03 14:03:59,487 INFO Total number of keys are : 3
